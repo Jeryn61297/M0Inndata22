@@ -1,0 +1,4 @@
+#Martes 
+#Ayer: instale VsCode, Java21
+#Hoy: voy a aprender a usar git
+#Obstaculo: no instale git
