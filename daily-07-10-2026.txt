@@ -1,0 +1,3 @@
+#Miercoles
+#Hoy: El dia de hoy cree mi primer HolaMundo en Java 21 desde Visual Studio Code.
+#Obstaculos: Los obstaculos que enfrente son algunas configuraciones del Ide pues es la primera vez que usare este ide para programar en java.
