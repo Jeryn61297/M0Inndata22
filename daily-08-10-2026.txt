@@ -1,0 +1,4 @@
+#Jueves
+#Hoy: Reafirme y realice una practica mas sobre las historias de usuario para aprender mas sobre el uso de la metodologia de SCRUM. Ademas realice el primer examen del modulo 0.
+#Obstaculos: En un inicio me confundi un poco pero segui investigando de que trataba cada paso y busque otros ejemplos
+#Ayer: cree mi primer HolaMundo en Java 21 desde Visual Studio Code.
